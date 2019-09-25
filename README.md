@@ -12,7 +12,7 @@ https://play.golang.org). This is a free browser based learning platform for you
 
 # Gopher Labs
 
-Golang for Beginners
+[Golang for Beginners](./Beginners/readme.md)
 
 Golang for Intermediate
 
