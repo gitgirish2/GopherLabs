@@ -25,3 +25,7 @@ Golang Cheatsheet
 # Golang Developer Roadmap 2019
 
  ![Golang Developer Roadmap 2019](https://raw.githubusercontent.com/jackfrued/golang-developer-roadmap/master/golang-developer-roadmap.png)
+ 
+ ## Give a Star! :star:
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
