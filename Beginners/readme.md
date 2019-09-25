@@ -1,4 +1,4 @@
-# Golang 
+# Golang for Beginners
 - [x] 37.interface - programming in go - https://engineitops.icu/interface_golang
 - [x] 36.Variadic functions - programming in go - https://engineitops.icu/Go_Variadic_functions
 - [x] 35.Methods - programming in go - https://engineitops.icu/Go_methods
