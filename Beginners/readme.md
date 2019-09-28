@@ -1,8 +1,9 @@
 # Golang for Beginners
 
 - [Lets Start With First Hello World](./hello-world.md)
-
 - [Numeral Systems - Decimal](./Decimal.md)
+- [Numeral systems - Binary] ()
+
 
 
 
@@ -45,6 +46,5 @@
 - [x] 5.numeral systems - programming in go - https://engineitops.icu/UTF-8go
 - [x] 4.numeral systems - programming in go - https://engineitops.icu/loop-numeralgo
 - [x] 3.numeral systems - programming in go - https://engineitops.icu/hexadecimalgo
-- [x] 2.numeral systems - programming in go - https://engineitops.icu/binary-go 
 
 
