@@ -2,8 +2,10 @@
 
 - [Lets Start With First Hello World](./hello-world.md)
 - [Numeral Systems - Decimal](./Decimal.md)
-- [Numeral systems - Binary] ()
-
+- [Numeral Systems - Binary]()
+- [Numeral Systems - Hexadecimal]()
+- [Numeral Systems - loop]()
+- [Numeral Systems - UTF-8]()
 
 
 
@@ -44,7 +46,7 @@
 - [x] 6.short variable declarations - programming in go - https://engineitops.icu/Short_variable_declarations
 - [x] the ultimate golang cheatsheet - https://engineitops.icu/the_ultimate_go_cheatsheet
 - [x] 5.numeral systems - programming in go - https://engineitops.icu/UTF-8go
-- [x] 4.numeral systems - programming in go - https://engineitops.icu/loop-numeralgo
-- [x] 3.numeral systems - programming in go - https://engineitops.icu/hexadecimalgo
+-
+
 
 
