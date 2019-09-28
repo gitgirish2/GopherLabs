@@ -1,4 +1,4 @@
-# numeral systems - Programming in GO
+# Numeral Systems - Decimal 
 
 	
 
