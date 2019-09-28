@@ -1,8 +1,8 @@
 # Golang for Beginners
 
-- [lets start with first hello world](./hello-world.md)
+- [Lets Start With First Hello World](./hello-world.md)
 
-
+- [Numeral Systems - Decimal](./Decimal.md)
 
 
 
@@ -46,5 +46,5 @@
 - [x] 4.numeral systems - programming in go - https://engineitops.icu/loop-numeralgo
 - [x] 3.numeral systems - programming in go - https://engineitops.icu/hexadecimalgo
 - [x] 2.numeral systems - programming in go - https://engineitops.icu/binary-go 
-- [x] 1.numeral systems - programming in go - https://engineitops.icu/Decimal-GO
+
 
