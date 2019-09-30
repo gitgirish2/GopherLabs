@@ -6,6 +6,22 @@
 - [Numeral Systems - Hexadecimal]()
 - [Numeral Systems - loop]()
 - [Numeral Systems - UTF-8]()
+- [Short Variable Declarations]()
+- [Variable With Zero Value]()
+- [Deep Drive On Variables]()
+- [Deep Drive On Constants]()
+- [String Type]()
+- [Bool Type]()
+- [Loop - Init, Condition, Post]()
+- [Loop - Nested Loops]()
+- [Loop - For Statement]() 
+- [Loop - Break & Continue]()
+- [Generate Random Number With Math/Crypto/Rand]()
+- [Loop - Printing ASCII]()
+- [Conditional - If Statement]()
+- [Conditional - If, Else If, Else]() 
+- [Loop, Conditional, Modulus]()
+- [Conditional - Switch Statement]()
 
 
 
@@ -28,25 +44,8 @@
 - [x] 24.conversion, not casting - programming in go - https://engineitops.icu/Conversion_Not_Casting
 - [x] 23.conditional logic operators - programming in go -https://engineitops.icu/Conditional-Logic-Operators
 - [x] 22.conditional switch statement documentation - programming in go -https://engineitops.icu/Switch_Statement_Documentation
-- [x] 21.conditional - switch statement - programming in go - https://engineitops.icu/Switch_Statement
-- [x] 20.loop, conditional, modulus - programming in go - https://engineitops.icu/loop_conditional_modulus
-- [x] 19. conditional - if, else if, else - programming in go - https://engineitops.icu/if_else
-- [x] 18.conditional - if statement - programming in go - https://engineitops.icu/if_statement
-- [x] 17.loop - printing ascii - programming in go - https://engineitops.icu/loop_Printing_ASCII
-- [x] 16.generate random number with math/crypto/rand in go - programming in go- https://engineitops.icu/golang_random_number
-- [x] 15.loop - break & continue - programming in go -https://engineitops.icu/Loop_Break_Continue
-- [x] 14.loop - for statement - programming in go - https://engineitops.icu/Loop_For_Statement
-- [x] 13.loop - nested loops - programming in go - https://engineitops.icu/Loop_Nested_Loops
-- [x] 12.loop - init, condition, post- programming in go -https://engineitops.icu/golang_loop_init_condition
-- [x] 11. bool type - programming in go - https://engineitops.icu/golang_Bool_Type
-- [x] 10.string type - programming in go - https://engineitops.icu/golang_String_type
-- [x] 9.deep drive on constants - programming in go - https://engineitops.icu/Deep_Drive_on_Constants
-- [x] 8. deep drive on variables - programming in go - https://engineitops.icu/deep_drive_on_variables
-- [x] 7. variable with zero value - programming in go - https://engineitops.icu/variable_with_zero_value
-- [x] 6.short variable declarations - programming in go - https://engineitops.icu/Short_variable_declarations
-- [x] the ultimate golang cheatsheet - https://engineitops.icu/the_ultimate_go_cheatsheet
-- [x] 5.numeral systems - programming in go - https://engineitops.icu/UTF-8go
--
+
+
 
 
 
