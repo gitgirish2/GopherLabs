@@ -2,7 +2,7 @@
 
 - [Lets Start With First Hello World](./hello-world.md)
 - [Numeral Systems - Decimal](./Decimal.md)
-- [Numeral Systems - Binary](./)
+- [Numeral Systems - Binary](./binary_go.md)
 - [Numeral Systems - Hexadecimal]()
 - [Numeral Systems - loop](./Numeral-systems-using-loop.md)
 - [Numeral Systems - UTF-8](./UTF-8.md)
