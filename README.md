@@ -21,7 +21,7 @@ https://play.golang.org). This is a free browser based learning platform for you
 
 Golang for Advanced
 
-Golang Cheatsheet
+[Golang Cheatsheet](./Golang_Cheatsheet.md)
 
 # Golang Developer Roadmap 2019
 
