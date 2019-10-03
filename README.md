@@ -17,7 +17,7 @@ https://play.golang.org). This is a free browser based learning platform for you
 
 [Golang for Beginners](./Beginners/readme.md)
 
-Golang for Intermediate
+[Golang for Intermediate](./Intermediate/readme.md)
 
 Golang for Advanced
 
